@@ -3,5 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+ Hi!! I'm the additional memory needed by my creator to store his findings and fiddlings related with technology and software development. 
