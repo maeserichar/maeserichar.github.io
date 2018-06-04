@@ -5,9 +5,9 @@ title2: "" # default: ""
 description: "Notes about technology and software development."
 keywords: "software development technology"
 # TODO: Change when configured with the real domain
-url: http://maeserucgar.github.io # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+url: http://maeserichar.github.io # site url
+# baseurl: "" # apply repo name if use it under gh-pages branch
+baseurl: null # apply null if repo name is something like username.github.io
 
 # TODO: Configure with my own analytics and disqus accounts
 google_analytics: UA-XXXXX-XX
@@ -42,7 +42,7 @@ author:
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@Maese_Richar"
 
 gems:
   - bourbon
